@@ -8,18 +8,6 @@ A primeira linha de entrada contem um número L (0 ≤ L ≤ 11) indicando a lin
 ### Saída
 Imprima o resultado solicitado (a soma ou média), com 1 casa após o ponto decimal.
 
-Exemplo de Entrada:	
-2
-S
-0.0
--3.5
-2.5
-4.1
-...
-
-Exemplo de Saída:
-12.6
-
 ### Resposta
 
 ```python

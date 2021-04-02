@@ -8,14 +8,6 @@ A primeira linha de entrada contem um único inteiro N (1 < N < 1000), indicando
 ### Saída
 A primeira linha apresenta a mensagem “Menor valor:” seguida de um espaço e do menor valor lido na entrada. A segunda linha apresenta a mensagem “Posicao:” seguido de um espaço e da posição do vetor na qual se encontra o menor valor lido, lembrando que o vetor inicia na posição zero.
 
-Exemplo de Entrada:	
-10
-1 2 3 4 -5 6 7 8 9 10
-
-Exemplo de Saída:
-Menor valor: -5
-Posicao: 4
-
 ### Resposta
 
 ```python
